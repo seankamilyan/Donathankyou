@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>תודה על ההתעניינות</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #E6F1FA; /* Light Blue */
+            color: #333;
+            text-align: center;
+            padding: 50px;
+        }
+
+        .thank-you-message {
+            background-color: #0056b3; /* Blue */
+            color: white;
+            padding: 30px;
+            border-radius: 10px;
+        }
+
+        h2 {
+            font-size: 24px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 18px;
+        }
+
+    </style>
+</head>
+<body>
+
+    <div class="thank-you-message">
+        <h2>תודה על ההתעניינות שלך!</h2>
+        <p>ניצור איתך קשר בהקדם האפשרי.</p>
+    </div>
+
+</body>
+</html>
